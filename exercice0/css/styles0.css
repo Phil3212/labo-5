@@ -1,0 +1,44 @@
+#conteneur {
+    grid-template-columns: 1fr 1fr 1fr;
+    display: grid;
+    border-style: solid;
+    border-width: 1px;
+    width: 50%;
+    height: 170px;
+    justify-self: center;
+    margin-bottom: 30px;
+}
+#conteneur2 {
+    grid-template-columns: 17% 33% 50%;
+    display: grid;
+    border-style: solid;
+    border-width: 1px;
+    width: 50%;
+    height: 170px;
+    justify-self: center;
+    margin-bottom: 30px;
+}
+#conteneur3 {
+    grid-template-columns: 17% 33% 50%;
+    grid-template-rows: 50% 25% 25%;
+    display: grid;
+    border-style: solid;
+    border-width: 1px;
+    width: 50%;
+    height: 170px;
+    justify-self: center;
+    margin-bottom: 30px;
+}
+#saumon {
+    background-color: salmon;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    
+}
+#aquamarine {
+    background-color: aquamarine;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+}
