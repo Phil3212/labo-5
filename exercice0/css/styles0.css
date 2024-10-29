@@ -29,14 +29,14 @@
     justify-self: center;
     margin-bottom: 30px;
 }
-#saumon {
+.saumon {
     background-color: salmon;
     border-style: solid;
     border-width: 1px;
     text-align: center;
     
 }
-#aquamarine {
+.aquamarine {
     background-color: aquamarine;
     border-style: solid;
     border-width: 1px;
